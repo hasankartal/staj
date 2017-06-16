@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: staj
+Bundle-SymbolicName: staj
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.eticaret.form,
+ com.eticaret.form.musteri,
+ com.eticaret.form.siparis,
+ com.eticaret.form.urun,
+ com.eticaret.staj
