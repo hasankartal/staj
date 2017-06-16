@@ -117,7 +117,7 @@ public class MusteriCRUD extends VerticalSplitPanel {
 		absLayoutSearch.addComponent(btnYeniSearch, "left: 20px; top: 135px;");
 
 		btnDeneme = new Button();
-		absLayoutSearch.addComponent(btnDeneme, "left: 30px; top: 235px;");
+		absLayoutSearch.addComponent(btnDeneme, "left: 255px; top: 135px;");
 
 		btnAraSearch = new Button();
 		btnAraSearch.setCaption("Ara");
